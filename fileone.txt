@@ -3,3 +3,5 @@ hello, world!
 new
 
 lesson number one
+
+lesson number two
